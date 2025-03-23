@@ -1,6 +1,6 @@
 // ---------- Insert Your Data ---------- //
 
-const BOT_TOKEN = "555310717:AAFLnE-Eq1l7CX5BsqeDhRskTZ0c0sh-RKI";
+const BOT_TOKEN = "555310717:AAGWle16aWempiMmS-l6dY42Fp2H1I35OlE";
 const BOT_WEBHOOK = "/endpoint";
 const BOT_SECRET = "atased123";
 const BOT_OWNER = 304611718;
